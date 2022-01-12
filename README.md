@@ -14,7 +14,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Car Reports API Screenshot]()
+![Car Reports API Screenshot](https://i.imgur.com/nb6AMNj.png)
 Project Link: [Car Reports API Walkthrough]()
 
 ### Built With
